@@ -17,7 +17,7 @@ contract Hew is ERC20Interface {
     // 合约构造器
     //  name = 合约币全名称，symbol = 合约币简称，initialSupply = 合约币初始数量，decimals = 合约币精度
     constructor() public {
-        name = "Hew Token";
+        name = "Hew";
         symbol = "HEW";
         decimals = 0;
         totalSupply = 100000000;
